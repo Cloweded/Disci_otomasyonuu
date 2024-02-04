@@ -6,14 +6,13 @@
 
 <h3 align="center">A passionate software developer from Turkey </h3>
 
-<h2>Merhabalar , bu projemizde yer alan arkadaşlarımız Bahrican Arayıcı , Orçun Demircan ve ben Ömer Yiğit Kasap.<br>Bu Proje içerisinde twitter clon yapmak istedik fakat eski twitter'ı temel aldık
-, projemizin içerisinde login, kayıt, home, profil , message ve communication sayfaları mevcut , sayfanmın ekran görüntüleri aşağıda mevcuttur..</h2>
+<h2>Merhabalar , bu projemizde yer alan arkadaşlarımız Bahrican Arayıcı , Orçun Demircan ve ben Ömer Yiğit Kasap.<br>Bu proje içerisinde dişçi otomasyonu yapmaya çalıştık burada bir doktorun ve personel için gerekli herşey var.</h2>
 <br>
 <br>
 <h1>Supervısor: Keyvan Arasteh </h1>
 <br>
 <h1>No: 211216096</h1>
-<h1>Ders: Mobil Programlama</h1>
+<h1>Ders: Bitirme Projesi</h1>
 <h1>Takim Uyeleri : Ömer Yiğit Kasap, Bahrican Arayıcı, Orçun Demircan</h1>
 
 <br/>
