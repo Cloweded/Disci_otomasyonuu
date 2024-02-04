@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\bin\Debug\Dişçi Otomasyonu.exe.config
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\bin\Debug\Dişçi Otomasyonu.exe
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\bin\Debug\Dişçi Otomasyonu.pdb
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\bin\Debug\Guna.UI2.dll
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi Otomasyonu.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi_Otomasyonu.Anasayfa.resources
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi_Otomasyonu.Giris.resources
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi_Otomasyonu.Personel_hasta_giris.resources
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi_Otomasyonu.Properties.Resources.resources
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi Otomasyonu.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi Otomasyonu.csproj.CopyComplete
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi Otomasyonu.exe
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi Otomasyonu.pdb
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi_Otomasyonu.Randevu.resources
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi_Otomasyonu.Tedavi.resources
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi_Otomasyonu.ucretler.resources
+C:\Users\User\source\repos\Dişçi Otomasyonu\Dişçi Otomasyonu\obj\Debug\Dişçi Otomasyonu.csproj.ResolveComReference.cache
